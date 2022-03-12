@@ -20,7 +20,6 @@
   
   ##
   
-![Snake animation](https://github.com/ViniciusElias05/ViniciusElias05/blob/output/github-contribution-grid-snake.svg)
 
 
 
