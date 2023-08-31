@@ -1,7 +1,5 @@
 ### Olá mundo! Eu sou Vinicius Elias e sejam bem vindos ao meu perfil!
 
-- 🌱 Eu estou estudando no momento Node JS    
-- 👯 Eu quero colaborar junto a comunidade para desenvolver novas tecnologias
   <div style="display: inline_block" >
    
   ##
